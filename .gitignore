@@ -109,6 +109,7 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+cohere_healthe_venv/
 
 # Spyder project settings
 .spyderproject
