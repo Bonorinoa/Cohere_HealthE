@@ -44,6 +44,7 @@ _streamlit_chat = components.declare_component(
     COMPONENT_NAME,
     path = build_dir)
 
+
 # data type for avatar style
 AvatarStyle = Literal[ 
     "adventurer", 
